@@ -1,5 +1,5 @@
 {
-  description = "bhnvim";
+  description = "my epic vims collection";
 
   inputs = {
       nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -11,7 +11,23 @@
       pkgs = nixpkgs.legacyPackages.${system};
   in
   {
-    bhnvim.${system}.default =
+    # devShells means if the flake is a shells you can run it with
+    # nix develop
+    # instead of
+    # nix develop .#bob
+    devShells.${system}.default =
+      pkgs.mkShell
+        {
+          buildInputs = [
+            pkgs.neovim
+            pkgs.vim
+          ];
+
+          shellHook = ''
+            echo "hello mom"
+          '';
+        };
+    bob =
       pkgs.mkShell
         {
           buildInputs = [
@@ -24,4 +40,3 @@
           '';
         };
   };
-}
