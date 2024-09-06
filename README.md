@@ -154,6 +154,16 @@ https://github.com/zmre/pwzsh/tree/main
 nix --extra-experimental-features "nix-command flakes" run github:zmre/pwzsh
 ```
 
+## bbham-zsh
+
+https://github.com/bbham/bbham-zsh/tree/main
+
+- zsh with good nvim
+
+```bash
+nix --extra-experimental-features "nix-command flakes" run github:bbham/bbham-zsh --no-write-lock-file
+```
+
 # Example Configs
 
 https://github.com/malob/nixpkgs
