@@ -12,7 +12,29 @@ keet the flakes repo at ˜/.flakes on my systems.
 
 everything is a flake even the main system config
 
----
+# Core Nix components
+
+## Nix
+
+A build tool and package manager used to create declarative, reproducible software systems.
+
+## Nix language
+
+A language for instructing Nix how to build packages, environments, and systems.
+
+## NixOS
+
+A Linux distribution built on Nix with its core principles in mind.
+
+## Nixpkgs
+
+A vast collection of Nix packages, libraries, and helper functions.
+
+# Nix learning sources
+
+## Zero to Nix
+
+https://zero-to-nix.com/
 
 # Installing Nix
 
