@@ -18,17 +18,26 @@ everything is a flake even the main system config
 
 A build tool and package manager used to create declarative, reproducible software systems.
 
+https://zero-to-nix.com/concepts/nix
+
 ## Nix language
 
 A language for instructing Nix how to build packages, environments, and systems.
+
+https://zero-to-nix.com/concepts/nix-language
 
 ## NixOS
 
 A Linux distribution built on Nix with its core principles in mind.
 
+https://zero-to-nix.com/concepts/nixos
+
 ## Nixpkgs
 
 A vast collection of Nix packages, libraries, and helper functions.
+
+https://zero-to-nix.com/concepts/nixpkgs
+
 
 # Nix learning sources
 
