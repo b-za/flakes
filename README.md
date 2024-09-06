@@ -142,6 +142,8 @@ nix flake update
 
 https://determinate.systems/posts/nix-run/
 
+- Very good post
+
 https://nixos.org/manual/nixpkgs/unstable/
 
 https://gist.github.com/edolstra/40da6e3a4d4ee8fd019395365e0772e7
