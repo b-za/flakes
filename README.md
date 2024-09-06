@@ -106,7 +106,7 @@ nix flake init
 }
 ```
 
-## Running a flake
+## Testing a flake
 
 In the folder the flake is in
 
@@ -117,9 +117,25 @@ nix develop .#bob
 
 Maybe the nix develop has something to do with devShells.${system}.default?
 
+## Building a flake
+
+```bash
+nix flake build?? 
+```
+
+## See available nix run targets
+
+```bash
+nix flake show github:DeterminateSystems/riff
+```
+
+## Running a flake
+
+In the folder the flake is in
+
 ???? Note sure what this does Running a flake
 ```
-nix run 
+nix flake run??
 ```
 
 ## Updating a flake
@@ -131,6 +147,8 @@ In the folder the flake is in
 ```bash
 nix flake update
 ```
+
+
 
 ## Sources
 
