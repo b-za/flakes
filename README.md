@@ -140,6 +140,12 @@ nix flake update
 
 # Example Configs
 
-https://github.com/malob/nixpkgs/blob/master/flake.nix
+https://github.com/malob/nixpkgs
 
-https://github.com/kclejeune/system/tree/master/profiles
+https://github.com/kclejeune/system
+
+https://github.com/zmre/nix-config
+
+https://github.com/zmre/mac-nix-simple-example
+
+https://gist.github.com/jmatsushita/5c50ef14b4b96cb24ae5268dab613050
