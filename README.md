@@ -124,6 +124,8 @@ nix run
 
 ## Updating a flake
 
+Updated the versions of the inputs in the flake
+
 In the folder the flake is in
 
 ```bash
@@ -135,3 +137,9 @@ nix flake update
 [Nix flakes explained](https://www.youtube.com/watch?v=S3VBi6kHw5c)
 
 ---
+
+# Example Configs
+
+https://github.com/malob/nixpkgs/blob/master/flake.nix
+
+https://github.com/kclejeune/system/tree/master/profiles
