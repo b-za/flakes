@@ -199,9 +199,9 @@ https://github.com/zmre/pwzsh/tree/main
 nix --extra-experimental-features "nix-command flakes" run github:zmre/pwzsh
 ```
 
-## bbham-zsh
+## b-za:zsh
 
-https://github.com/bbham/bbham-zsh/tree/main
+https://github.com/b-za/zsh/tree/main
 
 - zsh with good nvim
 
