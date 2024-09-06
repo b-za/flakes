@@ -138,6 +138,16 @@ nix flake update
 
 ---
 
+# Important Tools
+
+## github:numtide/flake-utils
+
+Pure Nix flake utility functions.
+
+The goal of this project is to build a collection of pure Nix functions that don't depend on nixpkgs, and that are useful in the context of writing other Nix flakes.
+
+https://github.com/numtide/flake-utils
+
 # Usefull Links
 
 https://determinate.systems/posts/nix-run/
