@@ -138,6 +138,10 @@ nix flake update
 
 ---
 
+# Usefull Links
+
+https://gist.github.com/edolstra/40da6e3a4d4ee8fd019395365e0772e7
+
 # Example Configs
 
 https://github.com/malob/nixpkgs
