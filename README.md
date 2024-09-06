@@ -170,6 +170,14 @@ https://github.com/bbham/bbham-zsh/tree/main
 nix --extra-experimental-features "nix-command flakes" run github:bbham/bbham-zsh --no-write-lock-file
 ```
 
+## DeterminateSystems:riff
+
+https://github.com/DeterminateSystems/riff/blob/main/flake.nix
+
+https://determinate.systems/posts/nix-run/
+
+
+
 # Example Configs
 
 https://github.com/malob/nixpkgs
