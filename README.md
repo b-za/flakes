@@ -140,6 +140,8 @@ nix flake update
 
 # Usefull Links
 
+https://determinate.systems/posts/nix-run/
+
 https://gist.github.com/edolstra/40da6e3a4d4ee8fd019395365e0772e7
 
 https://nixos.wiki/wiki/Flakes
