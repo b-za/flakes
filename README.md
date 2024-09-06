@@ -115,6 +115,8 @@ nix develop
 nix develop .#bob
 ```
 
+Maybe the nix develop has something to do with devShells.${system}.default?
+
 ???? Note sure what this does Running a flake
 ```
 nix run 
