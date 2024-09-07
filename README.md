@@ -167,6 +167,8 @@ In the folder the flake is in
 ???? Note sure what this does Running a flake
 ```
 nix flake run??
+nix run "https://flakehub.com/f/NixOS/nixpkgs/*#ponysay"
+
 ```
 
 ## Updating a flake
