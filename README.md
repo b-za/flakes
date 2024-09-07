@@ -270,6 +270,8 @@ https://determinate.systems/posts/nix-run/
 
 # Example Configs
 
+https://github.com/caarlos0/nur
+
 https://github.com/malob/nixpkgs
 
 https://github.com/kclejeune/system
