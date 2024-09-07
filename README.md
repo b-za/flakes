@@ -256,7 +256,30 @@ NB
 
 NB
 
+Has lots of good content to learn Nix in general, even though it seems like the focus is on NixOS and not Nix-Darwin I think many of the configuration options are similar.
+
+https://www.youtube.com/@vimjoyer/videos
+
+[Nix flakes explained](https://www.youtube.com/watch?v=S3VBi6kHw5c) @Vimjoyer
+
+- Really good explanation of the basics of Nix Flakes
+
 [Move your NixOS into a Flake!](https://www.youtube.com/watch?v=rEovNpg7J0M) @Vimjoyer
+
+- https://github.com/Misterio77/nix-starter-configs
+- Place to see starter nix configurations
+- https://nixos.wiki/wiki/Flakes
+- Look at the schema section
+
+[Nix home-manager tutorial: Declare your entire home directory](https://www.youtube.com/watch?v=FcC2dzecovw&t=1s) @Vimjoyer
+
+- Setting up home manager using flakes
+- standalone and as part of nixos
+- seems like the main difference between stand alone and linked to os is that
+  - it can be build separately
+  - you do not need to use sudo when rebuilding if its stand alone
+  - it can be used on other systems if it is stand alone
+- the main reason i can think why stand alone is not good is making sure the package versions are the same between the system and the home user 
 
 ## Other
 
