@@ -292,7 +292,13 @@ https://www.youtube.com/@vimjoyer/videos
   - it can be build separately
   - you do not need to use sudo when rebuilding if its stand alone
   - it can be used on other systems if it is stand alone
-- the main reason i can think why stand alone is not good is making sure the package versions are the same between the system and the home user 
+- the main reason i can think why stand alone is not good is making sure the package versions are the same between the system and the home user
+
+[Modularize NixOS and Home Manager | Great Practices](https://www.youtube.com/watch?v=vYc6IzKvAJQ) @Vimjoyer
+
+- NB
+
+[Custom NIX Home-Manager Modules For Personalized Setup](https://www.youtube.com/watch?v=EUiXzX7nthY) @Vimjoyer
 
 ## Other
 
