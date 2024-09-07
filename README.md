@@ -271,6 +271,17 @@ https://www.youtube.com/@vimjoyer/videos
 - https://nixos.wiki/wiki/Flakes
 - Look at the schema section
 
+[Manage Nix Flake Inputs Like a Pro](https://www.youtube.com/watch?v=4ZoBGlkMPWI)
+
+- Flake templates for making flakes
+- nix flake metadata command to view info on flakes
+- nix flake lock --update-inputs nixpkgs
+- Write a sheel script to update the inputs
+- nix flake --json | nix run nixpkgs#jq ".locks.nodes.root.inputs[]" | sed "s/"//g" | nix run nixpkgs#fzf
+- https://github.com/vimjoyer/simple-template
+- https://github.com/vimjoyer/nix-update-input
+
+
 [Nix home-manager tutorial: Declare your entire home directory](https://www.youtube.com/watch?v=FcC2dzecovw&t=1s) @Vimjoyer
 
 - Setting up home manager using flakes
