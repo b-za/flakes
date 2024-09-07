@@ -240,6 +240,20 @@ https://nixos.wiki/wiki/Flakes
 
 https://github.com/nix-community/NUR
 
+# Videos
+
+## DevOps_Toolbox
+
+[Nix Home Manager Has Forever Changed My Dotfiles](https://www.youtube.com/watch?v=k9yKm_k5cVA) @DevOps_Toolbox
+
+## Vimjoyer
+
+[Move your NixOS into a Flake!](https://www.youtube.com/watch?v=rEovNpg7J0M) @Vimjoyer
+
+## Other
+
+[Nix Home Manager Tutorial](https://www.youtube.com/watch?v=utoj6annRK0) @DevInsideYou
+
 # Example Flakes
 
 ## pwzsh
@@ -267,7 +281,6 @@ nix --extra-experimental-features "nix-command flakes" run github:bbham/bbham-zs
 https://github.com/DeterminateSystems/riff/blob/main/flake.nix
 
 https://determinate.systems/posts/nix-run/
-
 
 
 # Example Configs
