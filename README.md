@@ -242,11 +242,19 @@ https://github.com/nix-community/NUR
 
 # Videos
 
-## DevOps_Toolbox
+## DevOps_Toolbox 
+
+NB
+
+[Is Nix Your New Terminal SUPERPOWER?](https://www.youtube.com/watch?v=m4ST2dq10no) @DevOps_Toolbox
+
+[Nix Darwin Turned My Mac into a Fully Automated Machine](https://www.youtube.com/watch?v=iU7B76NTr2I) @DevOps_Toolbox
 
 [Nix Home Manager Has Forever Changed My Dotfiles](https://www.youtube.com/watch?v=k9yKm_k5cVA) @DevOps_Toolbox
 
 ## Vimjoyer
+
+NB
 
 [Move your NixOS into a Flake!](https://www.youtube.com/watch?v=rEovNpg7J0M) @Vimjoyer
 
